@@ -34,9 +34,7 @@ h2{
 .caption  {
   position: absolute;
   top: 50%;
-  left: 50%;
-
-  transform: translate(-50%, -53%);
+  transform: translateY(-50% );
 }
 .paragraphHeader {
   font-size: 1.2rem;
